@@ -156,7 +156,7 @@ input[type="date"] {
   }
 }
 
-@media screen and (max-height: 750px) and (max-width: 920px) {
+@media screen and (max-height: 830px) and (max-width: 920px) {
   .right {
     display: none;
   }
